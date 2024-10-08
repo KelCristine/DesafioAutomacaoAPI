@@ -3,7 +3,8 @@ Projeto Desafio de Automação de APIs - VAGA QA Lead.
 
 
 Olá, Avaliador, 
-  Segue abaixo instruções de sugestão para o melhor uso do arquivo anexo:
+  Segue abaixo instruções de sugestão para o melhor uso do arquivo anexo, caso seja do seu interesse efetuar download e importá-lo na IDE utilizada para este projeto:
+
 
 
   📋 Pré-requisitos
