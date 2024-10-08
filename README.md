@@ -76,8 +76,11 @@ Olá, Avaliador,
    O que é importante avaliar na estrutura do projeto "DesafioAutomacaoKellyCristineAPI": 
    
   "allure-results" - Onde constam os resultados das atividades GET, POST e PUT da API testada;
+
   "/src/test/java/APIAutTests/" - Encontra-se a classe ApiAutTests, nela consta o código utilizado para a execução da automação, devidamente comentado por etapas;
+  
   "pom.xml" - Na estrutura POM.XML encontram-se as dependências usadas no projeto, com as bibliotecas e pluggins que auxiliaram no desenvolvimento do cógido;
+  
   "External Libraries" - Encontram-se todas as bibliotecas que foram adicionadas para uso no pom.xml.
   	
   	
